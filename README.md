@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Bryce!
+
+
+- 🔭 I’m currently working on a React Native meal prep app.
+- 🌱 I’m currently learning TypeScript and advanced CSS.
+- 😄 Pronouns: he/him
 
 <!--
 **bryce-n-dev/bryce-n-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
