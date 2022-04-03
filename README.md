@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a React Native meal prep app.
-- 🌱 I’m currently learning TypeScript and advanced CSS.
+- 🌱 I’m currently learning NextJS and Rust.
 - 😄 Pronouns: he/him
 
 <!--
