@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bryce!
+### Hi there 👋 I'm Bryce, a computer science student at Concordia University!
 
 
 - 🔭 I’m currently working on a React Native meal prep app.
