@@ -1,9 +1,12 @@
 ### Hi there 👋 I'm Bryce, a computer science student at Concordia University!
 
 
-- 🔭 I’m currently working on a React Native meal prep app.
-- 🌱 I’m currently learning NextJS and Rust.
+- 🔭 I’m currently working on LangCards, a flashcard generator web application!
+- 🌱 I’m currently learning NextJS and Flask.
 - 😄 Pronouns: he/him
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryce-n-dev)](https://github.com/bryce-n-dev/github-readme-stats)
+
 
 <!--
 **bryce-n-dev/bryce-n-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
