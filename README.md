@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Bryce, a computer science student at Concordia University!
 
-
-- 🔭 I’m currently working on LangCards, a flashcard generator web application!
-- 🌱 I’m currently learning NextJS and Flask.
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on a top secret project. 🤫
+- 🌱 I’m currently learning about networking, microservices, and Kubernetes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryce-n-dev)](https://github.com/bryce-n-dev/github-readme-stats)
 
