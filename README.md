@@ -4,7 +4,6 @@
 I am a 3rd year computer science student with an interest in back-end development, distributed systems, networking, DevOps, and more. Currently improving my Go skills and dabbling in C++.  
   
 
-<br/>  
 
 
 ## Languages and Tools  
