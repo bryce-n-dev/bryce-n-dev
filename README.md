@@ -22,16 +22,3 @@ I am a 3rd year computer science student with an interest in back-end developmen
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bryce-n-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryce-n-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-<br />
