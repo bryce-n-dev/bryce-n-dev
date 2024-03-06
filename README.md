@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Bryce!  
   
 
-I am a 3rd year computer science student with an interest in back-end development, distributed systems, networking, DevOps, and more. Currently improving my Go skills and dabbling in C++.  
+I dabble in a lot of technologies. Looking for my next big project. 
   
 
 
